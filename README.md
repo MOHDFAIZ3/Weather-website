@@ -1,1 +1,1 @@
-# Weather-website
+Weather forecast website of some cities.
